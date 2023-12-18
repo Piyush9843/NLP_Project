@@ -2,6 +2,6 @@ This Repository contains the files related to the NLP Project assigned to our te
 
 Team Members for this project constitutes of:
 
-Piyush Sharma (21ucs150)
-Shreshtha Gupta (21ucs196)
+Piyush Sharma (21ucs150)  
+Shreshtha Gupta (21ucs196)  
 Abhay Gupta (21UCS002)
